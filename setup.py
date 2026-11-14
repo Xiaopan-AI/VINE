@@ -21,7 +21,7 @@ setup(
         "scipy==1.11.1",
         "timm>=0.9.2",
         "tokenizers==0.19.1",
-        "torch==2.0.1",
+        "torch==2.13.0",
         "torchdata==0.6.1",
         "torchmetrics==0.2.0",
         "torchvision==0.15.2",
