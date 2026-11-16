@@ -45,7 +45,7 @@ setup(
         "scikit-learn",
         "ipykernel",
         "sentencepiece",
-        "pytorch-lightning==1.2.9",
+        "pytorch-lightning==2.6.1",
         "bchlib==0.7",
         "easydict",
         "clip @ git+https://github.com/openai/CLIP.git",
